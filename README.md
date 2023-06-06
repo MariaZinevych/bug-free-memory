@@ -1,1 +1,1 @@
-# bug-free-memory
+# goit-js-hw-06
